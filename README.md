@@ -71,5 +71,5 @@ The objective of RFM analysis is to segment and understand customer behavior bas
 
 📊 Kaggle Dataset
 
-
+https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset
 
